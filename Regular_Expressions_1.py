@@ -5,7 +5,7 @@
 
 #import systems module
 import re
-my_input = input("Give me a series of comma separated numbers e.g.'1234'")
+my_input = input("Give me a series of numbers e.g.'1234'")
 while str(my_input) != 'done':
 
 # check to see if there are four consecutive digits somewhere in the input
