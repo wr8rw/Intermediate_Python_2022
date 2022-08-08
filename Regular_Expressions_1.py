@@ -5,6 +5,7 @@
 
 #import systems module
 import re
+#Entering the word 'done' ends the program
 my_input = input("Give me a series of numbers e.g.'1234'")
 while str(my_input) != 'done':
 
